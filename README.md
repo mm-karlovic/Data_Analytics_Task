@@ -2,3 +2,4 @@
 
 Rotten tomatoes dataset
 -data preprocesing, EDA, clustering
+-Python
